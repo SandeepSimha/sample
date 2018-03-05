@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <rotate
+            android:fromDegrees="-41"
+            android:pivotX="-20%"
+            android:pivotY="20%"
+            android:toDegrees="12">
+            <shape android:shape="rectangle">
+                <solid android:color="#FFFFFF"></solid>
+
+                <stroke
+                    android:width="18dp"
+                    android:color="@color/coachbubble" />
+            </shape>
+        </rotate>
+    </item>
+
+</layer-list>

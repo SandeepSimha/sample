@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project1>
+    <Location>
+        <Country>Albania</Country>
+        <City>Tirana</City>
+        <TargetPopulation>421,000</TargetPopulation>
+        <OverallPopulation>2,932,963</OverallPopulation>
+        <GDP>12,900,000,000</GDP>
+    </Location>
+    <Services_List>Bus terminals registry, Metro system, Rental services security system, Shuttle
+        services, Department of automobile reeducation service, Road renovation department
+        implementation, Higher education sponsorship registry, Education diversification
+        system,
+        Curriculum development and reform, Management & Human Resources
+    </Services_List>
+    <Services>
+        <Transportantion_Service>
+            <Sector>Bus</Sector>
+            <Sector>Shuttle</Sector>
+            <Sector>Metro System</Sector>
+            <Sector>Rental Services</Sector>
+        </Transportantion_Service>
+        <Education_Service>
+            <Sector>Books</Sector>
+            <Sector>Tutorials</Sector>
+            <Sector>Higher Education Sponsorship</Sector>
+        </Education_Service>
+        <Human_resources>
+            <Sector>Human Resource Manager</Sector>
+            <Sector>Human Resource Adviser</Sector>
+        </Human_resources>
+
+    </Services>
+</ Project1>
